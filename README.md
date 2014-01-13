@@ -1,4 +1,6 @@
-ester
+Everest
 =====
 
-Elliptics STorage Enter Route - Go web frontend to elliptics distributed storage
+Go web frontend to Elliptics distributed storage
+
+http://reverbrain.com/elliptics
